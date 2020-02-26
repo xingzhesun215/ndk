@@ -1,1 +1,1 @@
-include ':eg1'
+include ':eg1', ':eg2'
